@@ -8,3 +8,13 @@ C:\Users\Mike\Desktop\Задание 3\Задание 3\Задание 3\obj\Deb
 C:\Users\Mike\Desktop\Задание 3\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
 C:\Users\Mike\Desktop\Задание 3\Задание 3\Задание 3\obj\Debug\Задание 3.exe
 C:\Users\Mike\Desktop\Задание 3\Задание 3\Задание 3\obj\Debug\Задание 3.pdb
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\bin\Debug\Задание 3.exe.config
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\bin\Debug\Задание 3.exe
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\bin\Debug\Задание 3.pdb
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.AssemblyReference.cache
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание_3.Form1.resources
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание_3.Properties.Resources.resources
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.GenerateResource.cache
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание 3.exe
+D:\MishasProj\Test\Lesson3\Задание 3\Задание 3\obj\Debug\Задание 3.pdb
